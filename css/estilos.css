@@ -52,7 +52,7 @@ body
 }
 #footer
 {
-    color: fff;
-    background-color: #333;
+    color: fff; 
+    background-color: rgba(236, 120, 11, 0.884);
     text-align: center;
 }
