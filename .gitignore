@@ -1,0 +1,4 @@
+# Ignorar achivos binarios
+*.jpg
+*.pdf
+*.png
