@@ -5,12 +5,13 @@
 </p>
 </div>
 
-### Participantede deñ proyecto
+### Participantes del proyecto
 
 - **[Benhumea](https://github.com/Benhumea)
-- ** [tezutoyuza] (https://github.com/tezutoyuza)
+- ** [tezutoyuza](https://github.com/tezutoyuza)
 
-#Contribusiones
+## Contribusiones
 
 Si deseas realizar una contribucion a HiperMegablog 2.0. Realiza un fork al proyecto.
 Saludos.
+
